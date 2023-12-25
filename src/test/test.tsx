@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Post = () => {
+export const test = () => {
     return (
         <div>
-            <h2>Post</h2>
+            <h2>User</h2>
         </div>
     )
 }
